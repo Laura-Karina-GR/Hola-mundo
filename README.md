@@ -1,5 +1,5 @@
 # Hola-mundo
 Mi primer repositorio de prueba 
 
-Autor: Laura K
+Autor: Laura Karina Gómez Rojas
 Fecha: Febrero 10 2022
